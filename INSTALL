@@ -1,0 +1,9 @@
+Building CharityCoinHelps
+
+See doc/readme-qt.rst for instructions on building CharityCoinHelps-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CharityCoinHelps.
+
+See doc/build-*.txt for instructions on building charitycoinhelpsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CharityCoinHelps.
